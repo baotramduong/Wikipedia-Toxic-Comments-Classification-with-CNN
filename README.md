@@ -1,1 +1,1 @@
-# Wikipedia-Comments-Classification-with-CNN
+# Wikipedia Toxic Comments Classification with CNN
