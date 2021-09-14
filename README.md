@@ -1,6 +1,6 @@
 # Wikipedia Toxic Comments Classification with CNN
 
-<img src = '../main/Data & Images/dataset.png' height='65%' width='65%'>
+<img src = '../main/Data & Images/dataset.png' height='85%' width='85%'>
 
 <img src = '../main/Data & Images/wordcloud.png' >
 
